@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  background-color: azure;
+}
+
+* header {
+  background-image: url("../css/images/background.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+}
+/*# sourceMappingURL=style.css.map */
